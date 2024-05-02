@@ -13,4 +13,3 @@ def calculate_bmi(height, weight):
     if ( bmi > 25.0 ):
         print("Dude is Over Weight")
         return 1
-calculate_bmi(weight=80, height=1.73)
